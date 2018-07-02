@@ -1,2 +1,2 @@
 # alteredoruxmap
-Little desktop application that let you manage Oruxmap tiles
+Little desktop application that lets you manage Oruxmap tiles

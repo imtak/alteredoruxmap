@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OruxTracker xmlns:orux="http://oruxtracker.com/app/res/calibration"
+ versionCode="3.0">
+<MapCalibration layers="true" layerLevel="0">
+<MapName><![CDATA[LALLEY TOP25 vue au 25000eme]]></MapName>
+<OruxTracker versionCode="2.1">
+<MapCalibration layers="false" layerLevel="16">
+<MapName><![CDATA[LALLEY TOP25 vue au 25000eme 16]]></MapName>
+<MapChunks xMax="8" yMax="8" datum="WGS 1984:Global Definition@WGS 1984:Global Definition" projection="Latitude/Longitude," img_height="512" img_width="512" file_name="LALLEY TOP25 vue au 25000eme 16" />
+<MapDimensions height="4000" width="4000" />
+<MapBounds minLat="44.67823609999999" maxLat="44.77191957" minLon="5.61513163" maxLon="5.74654196" />
+<CalibrationPoints>
+<CalibrationPoint corner="TL" lon="5.62039593" lat="44.77191957" />
+<CalibrationPoint corner="BR" lon="5.741075890000001" lat="44.67823609999999" />
+<CalibrationPoint corner="TR" lon="5.74654196" lat="44.768091530000014" />
+<CalibrationPoint corner="BL" lon="5.61513163" lat="44.68205785000001" />
+</CalibrationPoints>
+</MapCalibration>
+</OruxTracker>
+</MapCalibration>
+</OruxTracker>

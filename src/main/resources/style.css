@@ -1,0 +1,16 @@
+.root{
+  -fx-font-size: 10pt;
+  -fx-font-family: "Verdana";
+}
+
+.tileButton{
+  -fx-background-color: #A9A9A9;
+}
+
+.tileButton:hover{
+  -fx-background-color: #00008B;
+}
+
+.tileButton:selected {
+    -fx-background-color: red;
+}
